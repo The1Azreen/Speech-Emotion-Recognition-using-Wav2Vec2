@@ -1,6 +1,4 @@
-# Speech-Emotion-Recognition-using-Wav2Vec2 (Archived)
-
-
+(Archived)
 # Speech-Emotion-Recognition-using-Wav2Vec2
 
 ## Project Overview
